@@ -15,9 +15,15 @@ Don't trust me, I can't coding
 - if done, is next open your terminal / cmd and type
 - php filename.php filename.txt
 
-##########################################################
+
+!
+
 Don't spread your cookies
+
 this tool is not so good because it uses cookies
+
 using excessively allows your account to be block
+
 I am not responsible for what you do!
-##########################################################
+
+!
