@@ -1,6 +1,6 @@
 # PHP-Tools
-[*] Please!
-[*] Don't trust me, I can't coding
+Please!
+Don't trust me, I can't coding
 
 [!] How to use [ Facebook auto add frined ]
 - edit cookies on the $ headers code with the cookies and your facebook profile id that you have at login
@@ -16,8 +16,8 @@
 - php filename.php filename.txt
 
 ##########################################################
-! Don't spread your cookies
-! this tool is not so good because it uses cookies
-! using excessively allows your account to be block
-! I am not responsible for what you do!
+Don't spread your cookies
+this tool is not so good because it uses cookies
+using excessively allows your account to be block
+I am not responsible for what you do!
 ##########################################################
