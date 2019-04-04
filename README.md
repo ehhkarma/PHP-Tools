@@ -1,8 +1,8 @@
 # PHP-Tools
-# Please!
-# Don't trust me, I can't coding
+[*] Please!
+[*] Don't trust me, I can't coding
 
-# How to use [ Facebook auto add frined ]
+[!] How to use [ Facebook auto add frined ]
 - edit cookies on the $ headers code with the cookies and your facebook profile id that you have at login
 - $headers[] = 'Cookie: datr=your cookie; 
   fr=your cookie; sb=your cookie; 
