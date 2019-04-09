@@ -27,3 +27,10 @@ using excessively allows your account to be block
 I am not responsible for what you do!
 
 !
+===================================================================
+
+[!] How to use [Email Extractor]
+
+php filename.php filelist.txt
+
+Output => vagina.txt
